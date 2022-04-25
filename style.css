@@ -1,0 +1,16 @@
+
+
+#main-doc{
+    position: relative;
+}
+
+#navbar{
+    position: fixed;
+    border: 2px solid green;
+}
+
+@media screen and (max-width: 992px) {
+    body {
+      background-color: rgb(192, 192, 211);
+    }
+  }
